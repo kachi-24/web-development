@@ -1,0 +1,20 @@
+1. git add
+2.git commit , git commit -m "message". 
+3. git push
+4.git pull
+5.git stash
+6. cd
+7.cat  filename
+8.mkdir dirname
+9.touch filename
+10. cp command
+11. cp command
+12. mv command
+13. mv command
+14. rm command
+15. rm command
+16. find command
+17. cat filensme
+18. chmod command
+19.pwd command
+20. date command
